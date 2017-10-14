@@ -1,0 +1,16 @@
+Drive map:
+https://drive.google.com/drive/folders/0B5jx9VyB8CY5YTJEUUEyWnlIR0k?usp=sharing
+Hier is de map op Google Drive waarin we al onze dingen stoppen.
+
+Trello: 
+https://trello.com/b/BLKza6cK/codecrackers-bord
+Verander a.u.b geen achtergronden enzo en zorg dat je je kaartjes goed tagt
+Als iets de hele tijd door is, zet de tag alle tijden erbij, als het alleen voor een bepaald aantal sprints is, zet dat er niet bij
+
+Github:
+https://github.com/issamvandecoderclass/codecrackers
+Commits in het Engels (tenzij het niet duidelijk genoeg is in het Engels) en schrijf er bij of het een “[add]”, “[change]” of “[remove]” is.
+
+First Lego League Updates:
+http://firstlegoleague.nl/deelnemers/updates/
+Als je updates wilt zien (*kuch kuch stomme regels*) ga dan naar deze link.
